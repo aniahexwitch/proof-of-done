@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /ABSOLUTE/PATH/TO/proof-of-done/hooks/proof_guard.py"
+          }
+        ]
+      }
+    ]
+  }
+}

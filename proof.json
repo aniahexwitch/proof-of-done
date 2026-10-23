@@ -1,0 +1,27 @@
+{
+  "claims": [
+    "done", "fixed", "works", "working", "passing", "implemented",
+    "all tests pass", "tests pass", "ready", "complete", "completed",
+    "resolved", "should now work"
+  ],
+  "change_claims": [
+    "fixed", "implemented", "all tests pass", "tests pass", "resolved",
+    "refactored", "completed"
+  ],
+  "enable_polish": false,
+  "claims_pl": [
+    "gotowe", "zrobione", "naprawione", "działa", "dziala",
+    "zaimplementowane", "wszystkie testy przechodzą", "rozwiązane"
+  ],
+  "evidence_commands": [
+    "pytest", "unittest", "npm test", "npm run test", "yarn test",
+    "pnpm test", "cargo test", "cargo check", "cargo build", "go test",
+    "go vet", "go build", "make test", "make check", "tox", "nox",
+    "curl", "py_compile", "mypy", "ruff", "flake8", "eslint", "tsc",
+    "jest", "vitest", "mocha", "rspec", "phpunit", "gradle test",
+    "mvn test", "dotnet test", "ctest", "bats"
+  ],
+  "evidence_tools": ["screenshot", "browser_snapshot"],
+  "ignore_turns_without_changes": true,
+  "evidence_after_last_change": true
+}

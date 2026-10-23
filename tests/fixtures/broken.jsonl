@@ -1,0 +1,4 @@
+{"type":"user","message":{"role":"user","content":"hello"}}
+{this is not json
+{"type":"assistant","message":{"role":"assistant","content":"Done, fixed."}
+[1,2,3]
